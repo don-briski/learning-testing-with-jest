@@ -1,0 +1,21 @@
+test framework
+-jest: it is fast, it has code coverage, it support mocking
+
+-cypress
+
+-selenium
+
+snapshot: unit or short testing...  /elememt in a dom. 
+
+testcases and testsuite
+
+test procedure rules:
+A: Arrange, A: Act, A: Assert
+
+
+unit testing: testing component of your app esp minor functionality if your app,
+integration testing: testing for major funtionality and the sync of component parts to form a system or output the required components
+end-end test or system test: testing the functionality and core funtionality of your app
+
+test covrage: it measures a percentage of statement or branches covered for an application. it helps to measure the quality of the code.
+
